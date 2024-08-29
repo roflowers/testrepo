@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// added this comment
+
 int main(int argc, char ** argv)
 {
  if(argc == 1) printf("\n syntax: %s [your text here]\n\n", argv[0]);
